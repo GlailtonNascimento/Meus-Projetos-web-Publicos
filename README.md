@@ -1,4 +1,3 @@
-
 # Projetos Web Front-End
 
 Esta pasta contém uma coleção de projetos web desenvolvidos utilizando tecnologias front-end.
