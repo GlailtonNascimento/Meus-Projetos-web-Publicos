@@ -43,8 +43,8 @@ Cada projeto dentro desta pasta pode ser visualizado abrindo o arquivo HTML prin
 
 ## Contato
 
-* [Seu LinkedIn](https://www.linkedin.com/in/glailton-nascimento/)
-* [Seu E-mail](glailtonprogramador88@gmail.com)
+* [MEU LinkedIn](https://www.linkedin.com/in/glailton-nascimento/)
+* [MEU E-mail](glailtonprogramador88@gmail.com)
 
 ## Autor
 
